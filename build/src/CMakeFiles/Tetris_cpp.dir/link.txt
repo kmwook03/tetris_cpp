@@ -1,2 +1,0 @@
-/usr/bin/ar qc ../lib/libTetris_cpp.a CMakeFiles/Tetris_cpp.dir/tetris.cpp.o CMakeFiles/Tetris_cpp.dir/ui.cpp.o
-/usr/bin/ranlib ../lib/libTetris_cpp.a

@@ -1,9 +1,0 @@
-{
-	"InstallScripts" : 
-	[
-		"/home/kmwook/tetris_cpp/build/cmake_install.cmake",
-		"/home/kmwook/tetris_cpp/build/src/cmake_install.cmake",
-		"/home/kmwook/tetris_cpp/build/apps/cmake_install.cmake"
-	],
-	"Parallel" : false
-}
